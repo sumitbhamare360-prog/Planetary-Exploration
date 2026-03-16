@@ -8,7 +8,7 @@
 
 **Planetary Exploration** is an educational, responsive webpage showcasing the 8 planets and 5 dwarf planets of our solar system. Built with pure HTML and CSS, it features high-quality NASA images, engaging descriptions, and direct links to official NASA facts pages.
 
-![Hero Section](Soler_system.jpg)
+![Hero Section](solar_system.jpg)
 
 Explore the wonders of space from your browser!
 
@@ -24,12 +24,10 @@ Explore the wonders of space from your browser!
 ## Screenshots
 
 ### Desktop View
-![Desktop](https://via.placeholder.com/1200x600/000033/ffffff?text=Planetary+Exploration+Desktop)
+![Desktop View](image.png)
 
 ### Mobile View
-![Mobile](https://via.placeholder.com/400x800/000033/ffffff?text=Planetary+Exploration+Mobile)
-
-*(Replace placeholders with actual screenshots for GitHub Pages preview.)*
+![Mobile View](https://via.placeholder.com/400x800/000033/ffffff?text=Planetary+Exploration+Mobile)
 
 ## Live Demo
 
