@@ -26,9 +26,6 @@ Explore the wonders of space from your browser!
 ### Desktop View
 ![Desktop View](image.png)
 
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x800/000033/ffffff?text=Planetary+Exploration+Mobile)
-
 ## Live Demo
 
 Open [project.html](project.html) in any modern browser.
